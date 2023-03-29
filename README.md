@@ -1,1 +1,2 @@
-# TheTecBlog
+The application contained within is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/123913103/228398490-34fe436e-431f-4632-bc8a-82da315cac61.gif)
